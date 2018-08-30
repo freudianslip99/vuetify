@@ -1,7 +1,4 @@
-# lotsofplots
-
-> lines and plots 
-
+Introduction to Vuetify theme called Inspire.  Details the construction of navigation options such as nav bar and drawers. 
 ## Build Setup
 
 ``` bash
